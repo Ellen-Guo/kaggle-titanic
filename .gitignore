@@ -1,0 +1,3 @@
+# ignore virtualenv files
+/venv
+.DS_Store
